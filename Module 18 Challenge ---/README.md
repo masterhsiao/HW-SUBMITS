@@ -1,3 +1,5 @@
+![Alt Text](/images/Module_18_Photo.png)
+
 # PyChain Ledger
 
 ![alt=""](Images/application-image.png)
