@@ -47,7 +47,6 @@ import hashlib
 @dataclass
 class Record:
     
-    data: Any
 # 3. Add an attribute named `sender` of type `str`.
     sender: str
 # 4. Add an attribute named `receiver` of type `str`.
@@ -200,7 +199,7 @@ if st.button("Add Block"):
     # which is set equal to a `Record` that contains the `sender`, `receiver`,
     # and `amount` values
     new_block = Block(
-        record=Record,
+        record=Record(sender_data, receiver_data, float(amount_data)),
         creator_id=42,
         prev_hash=prev_block_hash
     )
