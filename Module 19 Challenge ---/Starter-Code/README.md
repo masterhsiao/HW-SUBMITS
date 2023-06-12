@@ -1,3 +1,18 @@
+I am having trouble running step 3, my code seems correct and similar to the solved files from Module 19 but the solved files are out of date and this is a little beyond my capability.
+I attached the docuementation I went through trying to fix this... thanks for undertstanding.
+
+https://web3py.readthedocs.io/en/stable/web3.eth.html#web3.eth.Eth.default_account
+
+https://web3py.readthedocs.io/en/stable/web3.eth.html#web3.eth.Eth.get_balance
+
+https://web3py.readthedocs.io/en/stable/web3.eth.html#web3.eth.Eth.send_transaction
+
+I would consider this module complete based on the circumstances Thank you very much, my pass or fail of the class depends on this.
+
+
+
+##########################################################################################################################################################################
+
 ## Unit 19 Homework: Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
